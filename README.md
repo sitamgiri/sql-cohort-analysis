@@ -1,6 +1,7 @@
 -- Customer Cohort Analysis using SQL
 
 -- Overview
+
 -- This project performs customer cohort analysis using SQL to evaluate user retention and behavior over time.
 -- Customers are grouped based on their first purchase month, and their activity is tracked across subsequent months.
 
